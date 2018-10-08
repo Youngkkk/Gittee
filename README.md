@@ -1,2 +1,2 @@
 # Gittee
-just study
+so,just study
